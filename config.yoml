@@ -1,0 +1,3 @@
+baseURL = "https://lukaskopp.github.io/"
+title = "Lukas Kopp Portfolio"
+theme = "hugo-PaperMod"
