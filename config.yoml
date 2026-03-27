@@ -1,3 +1,67 @@
 baseURL = "https://lukaskopp.github.io/"
 title = "Lukas Kopp Portfolio"
 theme = "hugo-PaperMod"
+languageCode = "en-us"
+paginate = 10
+
+# 1. SITE METADATA & DESCRIPTION
+params:
+  description = "My personal pages showcasing my projects and experience in geospatial data science"
+  keywords = ["portfolio", "urban morphology", "urban planning", "geospatial", "data science", "projects"]
+  author = "Lukas Kopp"
+
+# 2. NAVIGATION & MENU
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Projects"
+      url: "/projects/"
+      weight: 3
+    - name: "Blog"
+      url: "/blog/"
+      weight: 4
+    - name: "Contact"
+      url: "/contact/"
+      weight: 5
+
+# 3. THEME & STYLING
+params:
+  defaultTheme: "auto"  # auto, light, or dark
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+  
+# 4. BUILD/DEPLOYMENT SETTINGS
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+minify:
+  tdewFormat: true
+  minifyOutput: true
+
+# 5. PUBLISHING OPTIONS
+publishDir = "public"
+enableRobotsTXT = true
+enableSitemap = true
+
+# Social Links
+params:
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/lukaskopp"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/lukaskopp"
+    - name: "email"
+      url: "mailto:koppluka@gmail.com"
