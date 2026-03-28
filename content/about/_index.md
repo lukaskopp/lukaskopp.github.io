@@ -1,24 +1,27 @@
 ---
-layout: page
-title: About
+title: "About Me"
 ---
 
-## About Lukas Kopp
+# About Lukas Kopp
 
-Hello! My name is Lukas Kopp, and I'm a passionate web developer with a focus on creating user-friendly and efficient web applications. I love technology and enjoy diving into new frameworks and tools to expand my skill set.
+I'm a passionate data scientist with expertise in:
 
-### Experience
+- **Geospatial Analysis**: Working with spatial data, mapping, and geographic information systems
+- **Urban Planning**: Analyzing urban development patterns and city morphology
+- **Data Science**: Machine learning, statistical analysis, and data visualization
+- **Python & GIS**: Proficient in Python, GDAL, GeoPandas, and ArcGIS
 
-I have a diverse background in software development, having worked on various projects ranging from small personal websites to larger applications. My goal is always to create seamless user experiences with clean and maintainable code.
+## Background
 
-### Skills
+My work focuses on using data-driven approaches to understand urban dynamics and inform better planning decisions. I combine technical expertise with domain knowledge to solve real-world problems.
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Webpack
+## Tools & Technologies
+- Python (Pandas, GeoPandas, Scikit-learn)
+- QGIS & ArcGIS
+- PostGIS
+- Jupyter & Data Visualization
+- Machine Learning & Statistical Analysis
 
-### Interests
+---
 
-Outside of coding, I enjoy hiking, photography, and exploring new tech trends. I'm always looking to collaborate on interesting projects or help others in the community.
-
-Feel free to reach out if you would like to connect or discuss potential opportunities!
+Feel free to [reach out](/contact/) for collaborations or inquiries!
