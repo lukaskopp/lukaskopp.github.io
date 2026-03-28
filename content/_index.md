@@ -1,30 +1,25 @@
----
-layout: home
-title: "Lukas Kopp - Portfolio"
----
+# Lukas Kopp
 
-# Welcome to My Portfolio
+## Portfolio
 
-Hello! I am **Lukas Kopp**, a passionate developer with a keen interest in building impactful software solutions. Here, you can find a showcase of my work, skills, and projects.  
+Welcome to my portfolio! I specialize in geospatial data science and urban planning. Here, you will find a selection of my work, highlighting my expertise in utilizing advanced data analytics to solve complex urban issues.  
 
-## About Me
-I am a software engineer specializing in web development and design. My goal is to create user-centric, efficient, and elegant solutions that solve real-world problems.
+### Skills
+- Geospatial Analysis  
+- Urban Planning  
+- Data Visualization  
+- Geographic Information Systems (GIS)  
 
-## Projects
-- **Project One**: A brief description of your project.
-- **Project Two**: A brief description of your project.
+### Projects
+1. **City Urban Mobility Study**: Analyzed transportation patterns to improve city transit efficiency using GIS tools.  
 
-## Skills
-- Web Development: HTML, CSS, JavaScript
-- Backend Development: Node.js, Python
-- Design: UI/UX Principles
+2. **Smart City Dashboard**: Developed an interactive dashboard that integrates urban data to facilitate decision-making for city planners.  
 
-## Contact
-Feel free to reach out to me via [LinkedIn](your-linkedin-url) or [Email](mailto:your-email@example.com).  
+3. **Green Space Mapping**: Conducted a GIS-based investigation of urban green spaces and their accessibility to residents.  
 
-Thank you for visiting my portfolio!  
+### Get in Touch
+- [LinkedIn Profile](https://linkedin.com/in/lukaskopp)  
+- [GitHub Projects](https://github.com/lukaskopp)  
+- Email: [koppluka@gmail.com](mailto:koppluka@gmail.com)  
 
----
-
-## Latest Updates
-- **[Link to your latest blog post or project]**
+Feel free to reach out for collaboration opportunities or inquiries regarding my work!
