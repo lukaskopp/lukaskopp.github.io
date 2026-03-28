@@ -18,7 +18,7 @@ Welcome to my portfolio! I specialize in geospatial data science and urban plann
 3. **Green Space Mapping**: Conducted a GIS-based investigation of urban green spaces and their accessibility to residents.  
 
 ### Get in Touch
-- [LinkedIn Profile](https://linkedin.com/in/lukaskopp)  
+- [LinkedIn Profile](https://linkedin.com/in/kopplukas)  
 - [GitHub Projects](https://github.com/lukaskopp)  
 - Email: [koppluka@gmail.com](mailto:koppluka@gmail.com)  
 
