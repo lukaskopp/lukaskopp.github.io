@@ -2,7 +2,8 @@ baseURL = "https://lukaskopp.github.io/"
 title = "Lukas Kopp Portfolio"
 theme = "hugo-PaperMod"
 languageCode = "en-us"
-paginate = 10
+[pagination]
+pagerSize = 10
 
 publishDir = "public"
 enableRobotsTXT = true
