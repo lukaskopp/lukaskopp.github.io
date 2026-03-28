@@ -1,9 +1,66 @@
-baseURL = "https://example.com"
-languageCode = "en"
-title = "My Blog"
+baseURL = "https://lukaskopp.github.io/"
+title = "Lukas Kopp Portfolio"
+theme = "hugo-PaperMod"
+languageCode = "en-us"
+paginate = 10
+
+publishDir = "public"
+enableRobotsTXT = true
+enableSitemap = true
 
 [params]
-  author = "Lukas Kopp"
-  description = "A simple blog about programming."
-  menu = [{name="Home", url="/"}, {name="About", url="/about"}, {name="Contact", url="/contact"}]
-  social_media = [{name="Twitter", icon="/icons/twitter.png", url="https://twitter.com/lukaskopp"}, {name="GitHub", icon="/icons/github.png", url="https://github.com/lukaskopp"}]
+description = "My personal pages showcasing my projects and experience in geospatial data science"
+keywords = ["portfolio", "urban morphology", "urban planning", "geospatial", "data science", "projects"]
+author = "Lukas Kopp"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/lukaskopp"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/lukaskopp"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:koppluka@gmail.com"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 3
+
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[minify]
+tdewFormat = true
+minifyOutput = true
